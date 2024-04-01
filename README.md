@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
+
 
 <div>
-<img src="https://vigeng-gh-stats.vercel.app/api?username=vigeng&count_private=true&hide=stars&show=reviews,discussions_started,prs_merged&show_icons=true&bg_color=00000000" /> 
+<img src="https://vigeng-gh-stats.vercel.app/api?username=vigeng&count_private=true&hide=stars&show=reviews&show_icons=true&bg_color=00000000" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vigeng&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
+<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
