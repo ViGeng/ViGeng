@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 
-<div>
-<img src="https://vigeng-gh-stats.vercel.app/api?username=vigeng&count_private=true&hide=stars&show=reviews&show_icons=true&bg_color=00000000" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vigeng&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+<img width="44%" src="https://vigeng-gh-stats.vercel.app/api?username=vigeng&count_private=true&hide=stars&show=reviews&show_icons=true&bg_color=00000000" />
+<img width="46%" src="https://streak-stats.demolab.com?user=vigeng&theme=transparent&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</p>
 
 <!--
 
